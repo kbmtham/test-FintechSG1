@@ -10,3 +10,5 @@ Some more text.
 * this is .....another one!
 
 Adding another line from GC Shell on my MacBook!
+
+Adding yet another line from the Google Cloud Shell!
