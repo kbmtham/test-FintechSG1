@@ -8,3 +8,5 @@ Some more text.
 
 * this is a list item.
 * this is .....another one!
+
+Adding another line from GC Shell on my MacBook!
